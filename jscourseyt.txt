@@ -1,0 +1,12 @@
+Javascript course notes
+
+In computer science, data is anyhting that is useful to a computer and javascript provides seven data types.*null means nothing
+
+variables allow computers to store and manipulate dAta in a dynamic fashion. It is like a box you can fill with anything.
+
+3 ways to declare a variable in JS: var, let, const..var can be used throughout your whole program, let can only be used within the scope of where you declared it, 
+const is a variable that shouldn't and can't change(you will get an error)
+
+initialize vs declare variables
+
+
